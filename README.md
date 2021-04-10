@@ -71,6 +71,10 @@ Features:
 * No soldering required - sits directly on top of the Denise PLCC chip
 * Integrated RGBtoHDMI solution on same board.
 
-**Note**: The PLCC socket needs some modification to allow it to sit properly. See LemaruX guide on the 68K PLCC socket rework that also applies to the Denise PLCC socket: 
+**Note**: The +**5V** and **GND** traces going to the Denise PLCC chip is very thin. Header **JP1** is provided for +**5V** and **GND**. It is recommedned that power is provided to the board using this.
+
+**Note**: The PLCC socket on this board needs some midifications to allow it to sit properly. See LemaruX's guide on the 68K PLCC socket rework that also applies to the Denise PLCC socket: 
 
 https://github.com/LemaruX/Amiga-A600-68k-PLCC2DIP-v2/blob/main/PLCC-Rework.md
+
+**Note**: This design will not work with most expansion boards in the A600 as it will spoil with it. Check compatibility before you commit to using/buying this board. 
