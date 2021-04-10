@@ -29,7 +29,7 @@ Tweaks and additions:
 * Optional delay on PiCLK signal
 * Support for FlashFloppy OSD
 
-**Note**: The optional delay circuit for the PiCLK signal does not seem to do anything, so it is redundant and not required. 
+**Note**: The optional delay circuit for the PiCLK signal does not seem to do anything, so it is redundant and not required. It will be removed from future versions.
 
 ## Amiga Denise DIP Adapter - With Pi Relocation
 
@@ -48,7 +48,7 @@ Features:
 * Optional delay on PiCLK signal
 * Support for FlashFloppy OSD
 
-**Note**: The optional delay circuit for the PiCLK signal does not seem to do anything, so it is redundant and not required. 
+**Note**: The optional delay circuit for the PiCLK signal does not seem to do anything, so it is redundant and not required. It will be removed from future versions.
 
 **Note**: On this board design the Raspberry Pi Zero faces **up**. This is different from the original RGBtoHDMI v2 adapter where it faces **down**. This means the header is on the other side, so any existing Raspberry Pi Zero will need to be modified accordingly. **This will be changed in the next version to face down, so that existing Raspberry Pi Zeros can be used.**
 
