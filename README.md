@@ -37,6 +37,12 @@ Tweaks and additions:
 
 **Note**: The optional delay circuit for the PiCLK signal does not seem to do anything, so it is redundant and not required. It will be removed from future versions.
 
+FlashFloppy OSD support is best used with the FlashFloppy OSD Blue Pill adapter at:
+
+https://github.com/solarmon/FlashFloppy/tree/main/FF%20OSD%20Adapter
+
+![image](https://user-images.githubusercontent.com/46369787/114283732-1d4cf080-9a43-11eb-8d25-a5b8e7559906.png)
+
 ## Amiga Denise DIP Adapter - With Pi Relocation
 
 KiCAD design files:
@@ -54,6 +60,13 @@ Features:
 * Optional delay on PiCLK signal
 * Support for FlashFloppy OSD
 * Uses an SMD socket header for the Raspberry Pi Zero
+
+FlashFloppy OSD support is best used with the FlashFloppy OSD Blue Pill adapter at:
+
+https://github.com/solarmon/FlashFloppy/tree/main/FF%20OSD%20Adapter
+
+![image](https://user-images.githubusercontent.com/46369787/114283732-1d4cf080-9a43-11eb-8d25-a5b8e7559906.png)
+
 
 **Note**: The optional delay circuit for the PiCLK signal does not seem to do anything, so it is redundant and not required. It will be removed from future versions.
 
