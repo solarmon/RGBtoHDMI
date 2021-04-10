@@ -94,4 +94,9 @@ Features:
 
 https://github.com/LemaruX/Amiga-A600-68k-PLCC2DIP-v2/blob/main/PLCC-Rework.md
 
-**Note**: This design will not work with most expansion boards in the A600 as it will spoil with it. Check compatibility before you commit to using/buying this board. 
+**Note**: This design will not work with most expansion boards in the A600 as it will spoil with it. Check compatibility before you commit to using/buying this board.
+
+**Note**: On this board, the Raspberry Pi Zero faces **down**:
+
+![image](https://user-images.githubusercontent.com/46369787/114283421-8e8ba400-9a41-11eb-99dc-f842fa104dd2.png)
+
