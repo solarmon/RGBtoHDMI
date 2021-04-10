@@ -9,7 +9,7 @@ https://github.com/hoglet67/RGBtoHDMI
 
 ## Issues and Questions
 
-Any issues or questions, please raise a ticket in the Issues section:
+Any issues or questions, please raise a ticket in the **Issues** section:
 
 https://github.com/solarmon/RGBtoHDMI/issues
 
