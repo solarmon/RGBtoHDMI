@@ -47,6 +47,7 @@ Features:
 * Use the Raspberry Pi Zero +3.3V regulator
 * Optional delay on PiCLK signal
 * Support for FlashFloppy OSD
+* Uses an SMD socket header for the Raspberry Pi Zero
 
 **Note**: The optional delay circuit for the PiCLK signal does not seem to do anything, so it is redundant and not required. It will be removed from future versions.
 
@@ -65,6 +66,10 @@ Based on c0pperdragon's RGBtoHDMI Small adapter.
 https://github.com/hoglet67/RGBtoHDMI/tree/master/kicad_AmigaAdapter/Small
 
 This is a PLCC hat version of the RGBtoHDMI Small adapter that sits directly on top of the Denise PLCC chip.
+
+This is for the Amiga 600 Denise ECS chip. However, the RGBtoHDMI solution only supports OCS modes:
+
+https://github.com/c0pperdragon/Amiga-Digital-Video#compatibility
 
 ![image](https://user-images.githubusercontent.com/46369787/114276978-01385780-9a21-11eb-8db0-0657e57af5bb.png)
 
