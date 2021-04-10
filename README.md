@@ -31,7 +31,7 @@ Tweaks and additions:
 
 **Note**: The optional delay circuit for the PiCLK signal does not seem to do anything, so it is redundant and not required. 
 
-## Amiga Denise DIP Adapter - Pi Relocation
+## Amiga Denise DIP Adapter - With Pi Relocation
 
 KiCAD design files:
 
@@ -51,6 +51,8 @@ Features:
 **Note**: The optional delay circuit for the PiCLK signal does not seem to do anything, so it is redundant and not required. 
 
 **Note**: The Raspberry Pi Zero faces up. This is different from the original RGBtoHDMI v2 adapter where it faces down. This means the header is on the other side, so any existing Raspberry Pi Zero will need to be modified accordingly. **This will be changed in the next version to face down, so that existing Raspberry Pi Zeros can be used.**
+
+**Note**: This board design still uses the smaller **TSSOP** package from the original RGBtoHDMI adapter. The next version will use the larger **SOIC** package.
 
 ## Amiga Denise PLCC Adapter
 
