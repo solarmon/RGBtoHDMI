@@ -9,6 +9,10 @@ https://github.com/hoglet67/RGBtoHDMI
 
 ## Amiga Denise DIP Adapter v2++
 
+KiCAD design files:
+
+https://github.com/solarmon/RGBtoHDMI/tree/main/RGBtoHDMI%20Amiga%20Denise%20-%20v2%2B%2B%20by%20solarmon
+
 Based on on c0pperdragon's v2 adapter
 
 https://github.com/c0pperdragon/Amiga-Digital-Video
@@ -29,6 +33,10 @@ Tweaks and additions:
 
 ## Amiga Denise DIP Adapter - Pi Relocation
 
+KiCAD design files:
+
+https://github.com/solarmon/RGBtoHDMI/tree/main/RGBtoHDMI%20Amiga%20Denise%20-%20solarmon
+
 A complete PCB redesign of the Amiga RGBtoHDMI v2 adapter by c0pperdragon.
 
 ![image](https://user-images.githubusercontent.com/46369787/114276832-490aaf00-9a20-11eb-99f8-e9cfcfd893f8.png)
@@ -45,6 +53,10 @@ Features:
 **Note**: The Raspberry Pi Zero faces up. This is different from the original RGBtoHDMI v2 adapter where it faces down. This means the header is on the other side, so any existing Raspberry Pi Zero will need to be modified accordingly. This will be changed in the next version to face down, so that existing Raspberry Pi Zeros can be used.
 
 ## Amiga Denise PLCC Adapter
+
+KiCAD design files:
+
+https://github.com/solarmon/RGBtoHDMI/tree/main/RGBtoHDMI%20Amiga%20Denise%20ECS%20PLCC
 
 Based on c0pperdragon's RGBtoHDMI Small adapter.
 
