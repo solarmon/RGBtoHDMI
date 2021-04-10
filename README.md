@@ -7,6 +7,10 @@ https://github.com/c0pperdragon/Amiga-Digital-Video
 
 https://github.com/hoglet67/RGBtoHDMI
 
+Any issues or questions, please raise a ticket in the Issues section:
+
+https://github.com/solarmon/RGBtoHDMI/issues
+
 ## Amiga Denise DIP Adapter v2++
 
 KiCAD design files:
