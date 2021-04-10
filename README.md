@@ -59,6 +59,8 @@ Features:
 
 **Note**: On this board design the Raspberry Pi Zero faces **up**. This is different from the original RGBtoHDMI v2 adapter where it faces **down**. This means the header is on the other side, so any existing Raspberry Pi Zero will need to be modified accordingly. **This will be changed in the next version to face down, so that existing Raspberry Pi Zeros can be used.**
 
+![image](https://user-images.githubusercontent.com/46369787/114283283-e1b12700-9a40-11eb-8a22-ecb42a06f601.png)
+
 **Note**: This board design still uses the smaller **TSSOP** package from the original RGBtoHDMI adapter. The next version will use the larger **SOIC** package.
 
 ## Amiga Denise PLCC Adapter
