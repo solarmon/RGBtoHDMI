@@ -113,6 +113,16 @@ https://github.com/LemaruX/Amiga-A600-68k-PLCC2DIP-v2/blob/main/PLCC-Rework.md
 
 ![image](https://user-images.githubusercontent.com/46369787/114283421-8e8ba400-9a41-11eb-99dc-f842fa104dd2.png)
 
+## RGBtoHDMI Pi Relocator Adapter  - Type A
+
+KiCAD Design Files: https://github.com/solarmon/RGBtoHDMI/tree/main/RGBtoHDMI-Adapter%20Type%20A
+
+This is a Pi relocator adapter that will flip it over to sit over RGBtoHDMI board.
+
+![image](https://user-images.githubusercontent.com/46369787/114313862-38296e80-9af0-11eb-9b29-c5588e9104ea.png)
+
+![image](https://user-images.githubusercontent.com/46369787/114313869-3bbcf580-9af0-11eb-925f-afda20d0c57d.png)
+
 ## RGBtoHDMI Pi Relocator Adapter  - Type B Rev 2
 
 KiCAD design Files: https://github.com/solarmon/RGBtoHDMI/tree/main/RGBtoHDMI-Adapter%20Type%20B%20Rev%202
