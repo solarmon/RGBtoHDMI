@@ -35,7 +35,7 @@ Tweaks and additions:
 * Optional delay on PiCLK signal
 * Support for FlashFloppy OSD
 
-**Note**: The optional delay circuit for the PiCLK signal does not seem to do anything, so it is redundant and not required. It will be removed from future versions.
+**Note**: The optional delay circuit (**U4**) for the **PiCLK** signal does not seem to do anything, so it is redundant and not required (but **JP2** still needs to be set to '**Normal PiCLK**'). It will be removed from future versions.
 
 FlashFloppy OSD support is best used with the FlashFloppy OSD Blue Pill adapter at:
 
@@ -68,7 +68,7 @@ https://github.com/solarmon/FlashFloppy/tree/main/FF%20OSD%20Adapter
 ![image](https://user-images.githubusercontent.com/46369787/114283732-1d4cf080-9a43-11eb-8d25-a5b8e7559906.png)
 
 
-**Note**: The optional delay circuit for the PiCLK signal does not seem to do anything, so it is redundant and not required. It will be removed from future versions.
+**Note**: The optional delay circuit (**U4**) for the **PiCLK** signal does not seem to do anything, so it is redundant and not required (but **JP2** still needs to be set to '**Normal PiCLK**'). It will be removed from future versions.
 
 **Note**: On this board design the Raspberry Pi Zero faces **up**. This is different from the original RGBtoHDMI v2 adapter where it faces **down**. This means the header is on the other side, so any existing Raspberry Pi Zero will need to be modified accordingly. **This will be changed in the next version to face down, so that existing Raspberry Pi Zeros can be used.**
 
