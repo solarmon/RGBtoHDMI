@@ -119,5 +119,5 @@ KiCAD design Files: https://github.com/solarmon/RGBtoHDMI/tree/main/RGBtoHDMI-Ad
 
 This is a Pi relocator adapter and has an optional 47pF (or other value) location to reduce any sparkles.
 
-![image](https://user-images.githubusercontent.com/46369787/114310019-242a4080-9ae1-11eb-937d-12cee474cbc2.png)
+![image](https://user-images.githubusercontent.com/46369787/114310985-cac41080-9ae4-11eb-93ed-ba1996f5f3ac.png)
 
