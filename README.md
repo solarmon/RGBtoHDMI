@@ -113,3 +113,11 @@ https://github.com/LemaruX/Amiga-A600-68k-PLCC2DIP-v2/blob/main/PLCC-Rework.md
 
 ![image](https://user-images.githubusercontent.com/46369787/114283421-8e8ba400-9a41-11eb-99dc-f842fa104dd2.png)
 
+## RGBtoHDMI Pi Relocator Adapter  - Type C Rev 2
+
+KiCAD design Files: https://github.com/solarmon/RGBtoHDMI/tree/main/RGBtoHDMI-Adapter%20Type%20C%20Rev%202
+
+This is a Pi relocator adapter and has an optional 47pF (or other value) location to reduce any sparkles.
+
+![image](https://user-images.githubusercontent.com/46369787/114310019-242a4080-9ae1-11eb-937d-12cee474cbc2.png)
+
