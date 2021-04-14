@@ -119,6 +119,8 @@ KiCAD Design Files: https://github.com/solarmon/RGBtoHDMI/tree/main/RGBtoHDMI-Ad
 
 This is a Pi relocator adapter that will flip it over to sit over RGBtoHDMI board.
 
+**Note**: **IMPORTANT** The Raspberry Pi Zero is flipped over. To keep the profile low, you need to solder the Raspberry Pi Zero directly to the adapter.
+
 ![image](https://user-images.githubusercontent.com/46369787/114313862-38296e80-9af0-11eb-9b29-c5588e9104ea.png)
 
 ![image](https://user-images.githubusercontent.com/46369787/114313869-3bbcf580-9af0-11eb-925f-afda20d0c57d.png)
