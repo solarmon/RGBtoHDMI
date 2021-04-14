@@ -70,7 +70,7 @@ https://github.com/solarmon/FlashFloppy/tree/main/FF%20OSD%20Adapter
 
 **Note**: The optional delay circuit (**U4**) for the **PiCLK** signal does not seem to do anything, so it is redundant and not required (but **JP2** still needs to be set to '**Normal PiCLK**'). It will be removed from future versions.
 
-**Note**: On this board design the Raspberry Pi Zero faces **up**. This is different from the original RGBtoHDMI v2 adapter where it faces **down**. This means the header is on the other side, so any existing Raspberry Pi Zero will need to be modified accordingly. **This will be changed in the next version to face down, so that existing Raspberry Pi Zeros can be used.**
+**Note**: **IMPORTANT** On this board design the Raspberry Pi Zero faces **up**. This is different from the original RGBtoHDMI v2 adapter where it faces **down**. This means the header is on the other side, so any existing Raspberry Pi Zero will need to be modified accordingly. **This will be changed in the next version to face down, so that existing Raspberry Pi Zeros can be used.**
 
 ![image](https://user-images.githubusercontent.com/46369787/114283283-e1b12700-9a40-11eb-8a22-ecb42a06f601.png)
 
@@ -88,7 +88,7 @@ https://github.com/hoglet67/RGBtoHDMI/tree/master/kicad_AmigaAdapter/Small
 
 This is a PLCC hat version of the RGBtoHDMI Small adapter that sits directly on top of the Denise PLCC chip.
 
-This is for the Amiga 600 Denise ECS chip. However, the RGBtoHDMI solution only supports OCS modes:
+This is for the Amiga A600 Denise ECS chip. However, the RGBtoHDMI solution only supports **OCS** modes, not **ECS** modes:
 
 https://github.com/c0pperdragon/Amiga-Digital-Video#compatibility
 
