@@ -76,6 +76,38 @@ https://github.com/solarmon/FlashFloppy/tree/main/FF%20OSD%20Adapter
 
 **Note**: This board design still uses the smaller **TSSOP** package from the original RGBtoHDMI adapter. The next version will use the larger **SOIC** package.
 
+## Amiga Denise DIP Adapter - With Pi Relocation - Rev 2 (TSSOP)
+
+KiCAD design files:
+
+https://github.com/solarmon/RGBtoHDMI/tree/main/RGBtoHDMI%20Amiga%20Denise%20-%20solarmon%20-%20Rev%202%20-%20TSSOP
+
+**Note:** This Rev 2 design has the Pi Zero facing **DOWN** (instead of facing **UP** in rev 1)
+
+![image](https://user-images.githubusercontent.com/46369787/116234899-187f8080-a755-11eb-873e-b00d8fc57938.png)
+
+This rev 2 design removes the redundant delay circuit using logic inverters, but adds the option to add a 47pF cap to the PiCLK line.
+
+This design still uses the smaller **TSSOP** chip package.
+
+## Amiga Denise DIP Adapter - With Pi Relocation - Rev 2 (SOIC)
+
+KiCAD design files:
+
+https://github.com/solarmon/RGBtoHDMI/tree/main/RGBtoHDMI%20Amiga%20Denise%20-%20solarmon%20-%20Rev%202%20-%20SOIC
+
+**Note:** This Rev 2 design has the Pi Zero facing **DOWN** (instead of facing **UP** in rev 1)
+
+**Note:** This version uses the larger SOIC chip package
+
+![image](https://user-images.githubusercontent.com/46369787/116235855-3ef1eb80-a756-11eb-9231-2855bde327ae.png)
+
+
+This rev 2 design removes the redundant delay circuit using logic inverters, but adds the option to add a 47pF cap to the PiCLK line.
+
+This design still uses the larger **SOIC** chip package, making it easier to hand solder.
+
+
 ## Amiga Denise PLCC Adapter
 
 KiCAD design files:
