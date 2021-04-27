@@ -43,7 +43,9 @@ https://github.com/solarmon/FlashFloppy/tree/main/FF%20OSD%20Adapter
 
 ![image](https://user-images.githubusercontent.com/46369787/114283732-1d4cf080-9a43-11eb-8d25-a5b8e7559906.png)
 
-## Amiga Denise DIP Adapter - With Pi Relocation
+## Amiga Denise DIP Adapter - With Pi Relocation - Rev 1
+
+**Note:** This is the **Rev 1** design - see further down for the **Rev 2** design.
 
 KiCAD design files:
 
