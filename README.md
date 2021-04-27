@@ -49,7 +49,7 @@ KiCAD design files:
 
 https://github.com/solarmon/RGBtoHDMI/tree/main/RGBtoHDMI%20Amiga%20Denise%20-%20v2%2B%2B%20by%20solarmon%20-%20Rev%202
 
-![image](https://user-images.githubusercontent.com/46369787/116292847-1685e380-a78e-11eb-8187-8837bf6d8618.png)
+![image](https://user-images.githubusercontent.com/46369787/116293618-01f61b00-a78f-11eb-965b-c4407b517dd3.png)
 
 ![image](https://user-images.githubusercontent.com/46369787/116293117-6b295e80-a78e-11eb-929a-ea21d5deae5e.png)
 
