@@ -60,7 +60,7 @@ This rev 2 design removes the redundant delay circuit using logic inverters, but
 
 **Note:** This is the **Rev 1** design - see further down for the **Rev 2** design.
 
-**WARNING:** Uses an **SMD** socket header for the Raspberry Pi Zero
+**WARNING:** Uses an **SMT** socket header for the Raspberry Pi Zero
 
 KiCAD design files:
 
@@ -76,7 +76,7 @@ Features:
 * Use the Raspberry Pi Zero +3.3V regulator
 * Optional delay on PiCLK signal
 * Support for FlashFloppy OSD
-* Uses an **SMD** socket header for the Raspberry Pi Zero
+* Uses an **SMT** socket header for the Raspberry Pi Zero
 
 FlashFloppy OSD support is best used with the FlashFloppy OSD Blue Pill adapter at:
 
@@ -95,7 +95,7 @@ https://github.com/solarmon/FlashFloppy/tree/main/FF%20OSD%20Adapter
 
 ## Amiga Denise DIP Adapter - With Pi Relocation - Rev 2 (TSSOP)
 
-**WARNING:** Uses an **SMD** socket header for the Raspberry Pi Zero
+**WARNING:** Uses an **SMT** socket header for the Raspberry Pi Zero
 
 KiCAD design files:
 
@@ -111,7 +111,7 @@ This design still uses the smaller **TSSOP** chip package.
 
 ## Amiga Denise DIP Adapter - With Pi Relocation - Rev 2 (SOIC)
 
-**WARNING:** Uses an **SMD** socket header for the Raspberry Pi Zero
+**WARNING:** Uses an **SMT** socket header for the Raspberry Pi Zero
 
 KiCAD design files:
 
