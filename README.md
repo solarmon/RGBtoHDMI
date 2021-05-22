@@ -35,9 +35,9 @@ Only **OCS** display modes are supported, even when an ECS Denise is used.
 
 **ECS** or **AGA** display modes are **not supported**.
 
-## RGBtoHDMI Firmware for Raspberry Pi
+## RGBtoHDMI Firmware for Raspberry Pi Zero
 
-Official RGBtoHDMI firmware for the Raspberry Pi Zero can be downloaded from:
+The official RGBtoHDMI firmware for the Raspberry Pi Zero can be downloaded from:
 
 https://github.com/hoglet67/RGBtoHDMI/releases
 
