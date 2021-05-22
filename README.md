@@ -13,6 +13,44 @@ Any issues or questions, please raise a ticket in the **Issues** section:
 
 https://github.com/solarmon/RGBtoHDMI/issues
 
+## Requirements
+
+* Any Raspberry Pi Zero variant, but please note the following:
+ - Raspberry Pi Zero 1.3 (original, no wireless, without a header, typically only one per purchase allowed)
+ - Raspberry Pi Zero W (with **Wireless**, no header)
+ - Raspberry Pi Zero WH (with **Wireless**, with **Header**)
+* HDMI adapter/cable: 
+ -The Raspberry Pi Zero comes with a **mini-HDMI** interface.
+ - This needs needs to be mounted somewhere on, or passed through, the case.
+
+## Audio not supported
+
+The current RGBtoHDMI solutions do not support audio.
+
+You will need to get audio to the HDMI display using some other method.
+
+## OCS Display Modes Only
+
+Only **OCS** display modes are supported, even when an ECS Denise is used.
+
+**ECS** or **AGA** display modes are **not supported**.
+
+## RGBtoHDMI Firmware for Raspberry Pi
+
+Official RGBtoHDMI firmware for the Raspberry Pi Zero can be downloaded from:
+
+https://github.com/hoglet67/RGBtoHDMI/releases
+
+Extract the zip file to the root of the micro-SD card.
+
+Beta releases from IanSB can be downloaded from: 
+
+https://github.com/IanSB/RGBtoHDMI/releases
+
+These releases are sometimes required for certain features to work.
+
+---
+
 ## Amiga Denise DIP Adapter v2++
 
 KiCAD design files:
