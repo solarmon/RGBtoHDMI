@@ -50,6 +50,35 @@ https://github.com/IanSB/RGBtoHDMI/releases
 These releases are sometimes required for certain features to work.
 
 ---
+## CPLD Based Designs ##
+
+### RGBtoHDMI Amiga Denise DIP CPLD ###
+
+Design Files: https://github.com/solarmon/RGBtoHDMI/tree/main/CPLD/RGBtoHDMI%20Amiga%20Denise%20DIP%20CPLD
+
+![](https://github.com/solarmon/RGBtoHDMI/blob/main/CPLD/RGBtoHDMI%20Amiga%20Denise%20DIP%20CPLD/RGBtoHDMI%20Amiga%20Denise%20DIP%20CPLD%20-%20Top.png)
+
+## CPLD and FFC Based Designs ##
+
+### RGBtoHDMI Amiga Denise CPLD FFC ###
+
+Design Files: https://github.com/solarmon/RGBtoHDMI/tree/main/CPLD/RGBtoHDMI%20Amiga%20Denise%20CPLD%20FFC
+
+![](https://github.com/solarmon/RGBtoHDMI/blob/main/CPLD/RGBtoHDMI%20Amiga%20Denise%20CPLD%20FFC/RGBtoHDMI%20Amiga%20Denise%20CPLD%20FFC%20-%20Top.png)
+
+### RGBtoHDMI Amiga Denise PLCC SMT Breakout FFC ###
+
+Design Files: https://github.com/solarmon/RGBtoHDMI/tree/main/CPLD/RGBtoHDMI%20Amiga%20Denise%20PLCC%20SMT%20Breakout%20FFC
+
+![](https://github.com/solarmon/RGBtoHDMI/blob/main/CPLD/RGBtoHDMI%20Amiga%20Denise%20PLCC%20SMT%20Breakout%20FFC/RGBtoHDMI%20Amiga%20Denise%20PLCC%20SMT%20Breakout%20FFC%20-%20Top.png)
+
+### RGBtoHDMI Amiga Denise DIP Breakout FFC ###
+
+Design Files: https://github.com/solarmon/RGBtoHDMI/tree/main/CPLD/RGBtoHDMI%20Amiga%20Denise%20DIP%20Breakout%20FFC
+
+![](https://github.com/solarmon/RGBtoHDMI/blob/main/CPLD/RGBtoHDMI%20Amiga%20Denise%20DIP%20Breakout%20FFC/RGBtoHDMI%20Amiga%20Denise%20DIP%20Breakout%20FFC%20-%20Top.png)
+
+---
 
 ## Amiga Denise DIP Adapter v2++
 
