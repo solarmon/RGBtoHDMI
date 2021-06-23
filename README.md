@@ -60,6 +60,10 @@ These don't require a Denise OCS/ECS jumper and have three menu button support.
 
 I have added FF OSD integration support to the board.
 
+A Quick Start Guide for these CPLD boards cane be found at:
+
+https://github.com/solarmon/RGBtoHDMI/wiki/RGBtoHDMI-CPLD-Quick-Start-Guide
+
 ### RGBtoHDMI Amiga Denise DIP CPLD ###
 
 More details and design files: https://github.com/solarmon/RGBtoHDMI/tree/main/CPLD/RGBtoHDMI%20Amiga%20Denise%20DIP%20CPLD
