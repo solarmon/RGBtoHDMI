@@ -100,6 +100,14 @@ More details and design files: https://github.com/solarmon/RGBtoHDMI/tree/main/C
 
 ![](https://github.com/solarmon/RGBtoHDMI/blob/main/CPLD/RGBtoHDMI%20Amiga%20Denise%20DIP%20Breakout%20FFC/RGBtoHDMI%20Amiga%20Denise%20DIP%20Breakout%20FFC%20-%20Top.png)
 
+### FF OSD Adapter - Rev 2 ##
+
+More details and design files: https://github.com/solarmon/FlashFloppy/tree/main/FF%20OSD%20Adapter%20-%20Rev%202
+
+The CPLD based RGBtoHDMI boards support FlashFloppy OSD integration and this is made easier with the FF OSD Adapter Rev 2 adapter.
+
+![](https://github.com/solarmon/FlashFloppy/blob/main/FF%20OSD%20Adapter%20-%20Rev%202/FF%20OSD%20Adapter%20-%20Rev%202%20-%20Top.png)
+
 ---
 
 ## Amiga Denise DIP Adapter v2++
