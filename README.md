@@ -70,6 +70,8 @@ More details and design files: https://github.com/solarmon/RGBtoHDMI/tree/main/C
 
 ![](https://github.com/solarmon/RGBtoHDMI/blob/main/CPLD/RGBtoHDMI%20Amiga%20Denise%20DIP%20CPLD/RGBtoHDMI%20Amiga%20Denise%20DIP%20CPLD%20-%20Top.png)
 
+![](https://github.com/solarmon/RGBtoHDMI/blob/main/CPLD/RGBtoHDMI%20Amiga%20Denise%20DIP%20CPLD/RGBtoHDMI%20Amiga%20Denise%20DIP%20CPLD%20-%20Top%20with%20Pi.png)
+
 ## CPLD and FFC Based Designs ##
 
 These CPLD based boards are based on the excellent RGBtoHDMI CPLD design by LinuxJedi:
@@ -87,6 +89,8 @@ I have used an FFC connector design to allow for different breakout hats for dif
 More details and design files: https://github.com/solarmon/RGBtoHDMI/tree/main/CPLD/RGBtoHDMI%20Amiga%20Denise%20CPLD%20FFC
 
 ![](https://github.com/solarmon/RGBtoHDMI/blob/main/CPLD/RGBtoHDMI%20Amiga%20Denise%20CPLD%20FFC/RGBtoHDMI%20Amiga%20Denise%20CPLD%20FFC%20-%20Top.png)
+
+![](https://github.com/solarmon/RGBtoHDMI/blob/main/CPLD/RGBtoHDMI%20Amiga%20Denise%20CPLD%20FFC/RGBtoHDMI%20Amiga%20Denise%20CPLD%20FFC%20-%20Top%20with%20Pi.png)
 
 ### RGBtoHDMI Amiga Denise PLCC SMT Breakout FFC ###
 
