@@ -64,13 +64,23 @@ A Quick Start Guide for these CPLD boards cane be found at:
 
 https://github.com/solarmon/RGBtoHDMI/wiki/RGBtoHDMI-CPLD-Quick-Start-Guide
 
-### RGBtoHDMI Amiga Denise DIP CPLD ###
+### RGBtoHDMI Amiga Denise DIP CPLD Rev 1.1 ###
 
-More details and design files: https://github.com/solarmon/RGBtoHDMI/tree/main/CPLD/RGBtoHDMI%20Amiga%20Denise%20DIP%20CPLD
+More details and design files:
 
-![](https://github.com/solarmon/RGBtoHDMI/blob/main/CPLD/RGBtoHDMI%20Amiga%20Denise%20DIP%20CPLD/RGBtoHDMI%20Amiga%20Denise%20DIP%20CPLD%20-%20Top.png)
+Rev 1.1: https://github.com/solarmon/RGBtoHDMI/tree/main/CPLD/RGBtoHDMI%20Amiga%20Denise%20DIP%20CPLD%20Rev%201.1
 
-![](https://github.com/solarmon/RGBtoHDMI/blob/main/CPLD/RGBtoHDMI%20Amiga%20Denise%20DIP%20CPLD/RGBtoHDMI%20Amiga%20Denise%20DIP%20CPLD%20-%20Top%20with%20Pi.png)
+
+Rev 1.1 adds an optional additional right-angle push button for BT1.
+
+![](https://github.com/solarmon/RGBtoHDMI/blob/main/CPLD/RGBtoHDMI%20Amiga%20Denise%20DIP%20CPLD%20Rev%201.1/RGBtoHDMI%20Amiga%20Denise%20DIP%20CPLD%20%20Rev%201.1%20-%20Top.png)
+
+![](https://github.com/solarmon/RGBtoHDMI/blob/main/CPLD/RGBtoHDMI%20Amiga%20Denise%20DIP%20CPLD%20Rev%201.1/RGBtoHDMI%20Amiga%20Denise%20DIP%20CPLD%20%20Rev%201.1%20-%20Top%20with%20Pi.png)
+
+Older revisions:
+
+Rev 1.0: https://github.com/solarmon/RGBtoHDMI/tree/main/CPLD/RGBtoHDMI%20Amiga%20Denise%20DIP%20CPLD
+
 
 ## CPLD and FFC Based Designs ##
 
@@ -84,13 +94,21 @@ I have added FF OSD integration support to the board.
 
 I have used an FFC connector design to allow for different breakout hats for different Denise packages (PLCC and DIP).
 
-### RGBtoHDMI Amiga Denise CPLD FFC ###
+### RGBtoHDMI Amiga Denise CPLD FFC Rev 1.1 ###
 
-More details and design files: https://github.com/solarmon/RGBtoHDMI/tree/main/CPLD/RGBtoHDMI%20Amiga%20Denise%20CPLD%20FFC
+More details and design files:
 
-![](https://github.com/solarmon/RGBtoHDMI/blob/main/CPLD/RGBtoHDMI%20Amiga%20Denise%20CPLD%20FFC/RGBtoHDMI%20Amiga%20Denise%20CPLD%20FFC%20-%20Top.png)
+Rev 1.1: https://github.com/solarmon/RGBtoHDMI/tree/main/CPLD/RGBtoHDMI%20Amiga%20Denise%20CPLD%20FFC%20Rev%201.1
 
-![](https://github.com/solarmon/RGBtoHDMI/blob/main/CPLD/RGBtoHDMI%20Amiga%20Denise%20CPLD%20FFC/RGBtoHDMI%20Amiga%20Denise%20CPLD%20FFC%20-%20Top%20with%20Pi.png)
+Rev 1.1 adds an optional additional right-angle push button for BT1.
+
+![](https://github.com/solarmon/RGBtoHDMI/blob/main/CPLD/RGBtoHDMI%20Amiga%20Denise%20CPLD%20FFC%20Rev%201.1/RGBtoHDMI%20Amiga%20Denise%20CPLD%20FFC%20Rev%201.1%20-%20Top.png)
+
+![](https://github.com/solarmon/RGBtoHDMI/blob/main/CPLD/RGBtoHDMI%20Amiga%20Denise%20CPLD%20FFC%20Rev%201.1/RGBtoHDMI%20Amiga%20Denise%20CPLD%20FFC%20Rev%201.1%20-%20Top%20with%20Pi.png)
+
+Older revisions:
+
+Rev 1.0: https://github.com/solarmon/RGBtoHDMI/tree/main/CPLD/RGBtoHDMI%20Amiga%20Denise%20CPLD%20FFC
 
 ### RGBtoHDMI Amiga Denise PLCC SMT Breakout FFC ###
 
