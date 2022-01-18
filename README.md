@@ -266,7 +266,8 @@ https://github.com/c0pperdragon/Amiga-Digital-Video#compatibility
 
 **Note**: It uses the larger **SOIC** chip package, rather than the smaller **TSSOP** chip package.
 
-![image](https://user-images.githubusercontent.com/46369787/114276978-01385780-9a21-11eb-8db0-0657e57af5bb.png)
+![image](https://user-images.githubusercontent.com/46369787/149907745-558ab4a7-fc71-4516-bcc1-8130eb81fa69.png)
+
 
 Features:
 
